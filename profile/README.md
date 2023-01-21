@@ -4,7 +4,7 @@ Follow mistertfy64 on his journey to make the most feature-creeped, bloated, com
 
 Literally no funding<sup>(note 1)</sup>, no endorsements<sup>(note 2)</sup>, no advertising<sup>(note 3)</sup>, and no players<sup>(note 4)</sup>.
 
-Also if you played it you know it has bad design.
+Also if you played it you know it has bad design. However, an [announcement has been made](https://blog.mistertfy64.com/post?id=63cab3a2cbe4d8654596ee23) to change the entire game design.
 
 This place is where the source code for the website/game is stored. It is licensed under the MIT license.
 
