@@ -1,3 +1,3 @@
-# Yet another math game
+# math game
 
 Solve math problems to kill enemies, and that's all.
