@@ -10,7 +10,7 @@ Originally made as part of a government-agency-backed<sup>[verification needed]<
  
  <div align="center">
   <h3><a href="https://play.mathematicalbasedefenders.com"><b>Play Now!</b></a></h3>
-  <a href="https://play.mathematicalbasedefenders.com">Accompanying Website</a>
+  <a href="https://mathematicalbasedefenders.com">Accompanying Website</a>
 </div>
 
 ## The (One-Person) Team
