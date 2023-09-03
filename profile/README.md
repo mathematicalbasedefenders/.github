@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?label=Registered%20Players&query=usersRegistered&url=https%3A%2F%2Fmathematicalbasedefenders.com%2Fapi%2Fmetadata">
 </div>
 
-Mathematical Base Defenders is desperately trying to be one of the most hardcore number-cruncher math games. Solve equations as fast as possible while enemies come to your baseb to kill them off, and keep solving them so that you don't lose! Play in singleplayer modes or in a multiplayer room, or make your own rules and make it as easy or as hard to your heart's content! With an account and leaderboards system, you can also check how well you compete up against others!
+Mathematical Base Defenders is desperately trying to be one of the most hardcore number-cruncher math games. Solve equations as fast as possible while enemies come to your base to kill them off, and keep solving them so that you don't lose! Play in singleplayer modes or in a multiplayer room, or make your own rules and make it as easy or as hard to your heart's content! With an account and leaderboards system, you can also check how well you compete up against others!
 
 Originally made as part of a government-agency-backed<sup>[verification needed]</sup> software competition (NSC 2021), and getting nowhere after 1 overhaul update and over 1,000 days, Mathematical Base Defenders is finally under active development again<sup>[how many times?]</sup>! 
  
