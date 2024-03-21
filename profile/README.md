@@ -16,10 +16,5 @@ Originally made as part of a government-agency-backed<sup>[verification needed]<
 ## The (One-Person) Team
 [mistertfy64](https://mathematicalbasedefenders.com/users/mistertfy64) • Founder, Game Master, Sole Developer and Maintainer • ([Personal Website](https://mistertfy64.com), [GitHub](https://github.com/mistertfy64), [Twitter](https://www.twitter.com/mistertfy64), [Instagram](https://www.instagram.com/mistertfy64))
 
-## Alumni
-KG07 • October 2020 to February 2021 • ([GitHub](https://github.com/KG07))
-
-[Muq1937](https://mathematicalbasedefenders.com/users/Muq1937) • October 2020 to February 2021 • ([GitHub](https://github.com/Muq1937))
-
 ## Contact Methods
 [Support E-mail](mailto:support@mathematicalbasedefenders.com) • [Discord Server](https://discord.gg/pDTZvrTXm9) • [Facebook](https://facebook.com/mathematicalbasedefenders) • [Twitter](https://twitter.com/MathematicalBD) • [Instagram](https://instagram.com/mathematicalbasedefenders) 
