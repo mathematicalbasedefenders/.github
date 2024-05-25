@@ -13,7 +13,7 @@ Originally made as part of a government-agency-backed<sup>[verification needed]<
   <a href="https://mathematicalbasedefenders.com">Accompanying Website</a>
 </div>
 
-## The (One-Person) Team
+## Development Team
 [mistertfy64](https://mathematicalbasedefenders.com/users/mistertfy64) • Developer • ([Personal Website](https://mistertfy64.com), [GitHub](https://github.com/mistertfy64), [Twitter](https://www.twitter.com/mistertfy64), [Instagram](https://www.instagram.com/mistertfy64))
 
 ## Contact Methods
